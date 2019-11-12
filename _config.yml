@@ -2,7 +2,7 @@
 
 title: Renad Bader
 locale: en_US
-description: A simple and clean responsive Jekyll theme for words and photos.
+description: Simple website for my professional resume.
 logo: site-logo.png
 url: https://rinadbader2020.github.io
 
@@ -41,5 +41,5 @@ owner:
   email: rinad.bader@gmail.com
   disqus-shortname: sosimpletheme
   github: rinadbader2020
-  linkedin: https://www.linkedin.com/in/renad-bader-806319152/
+  linkedin: /renad-bader-806319152/
    
