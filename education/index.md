@@ -15,25 +15,13 @@ image:
 
 
   
-**Nova Southeastern University (2020 - )**
+**Miami Dade Collage (2019 - Present)**
    
-   * Master's Degree in Computer Science
+   * Cloud Computing Program (AWS)
  
-**Revature (January 2019 - May 2019)**
-   * Full Stack Web Developer, Computer Science [Boot Camp]
- 
-**Keiser University (August 2017 - October 2017)**
-   * Bachelor's Degree in Software Engineering
- 
-**Miami Dade College (2013)**
-   * Algebra
-   * Mathematical Statistics & Probabilities
-   
-**Concordia University-Portland, OR (2010 - 2011)**
-   * Master's Degree in Curriculum & Instruction with minor in ESOL
-  
-**University of Havana, Cuba (1997 - 2002)**
-   * Bachelor's Degree in English Language and Literature with concentration in Translation & Interpretation
+**Birzeit University (Septemper 2005 - Septemper 2009)**
+
+   * Bachelor Degree, Computer Science
 
 
 
